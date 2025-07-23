@@ -1,0 +1,29 @@
+1. **Buscalibre**: Promoción de envío a Luka por tiempo limitado. Ofrecen una amplia selección de libros y productos de EE.UU. con garantía de compra y servicio al cliente.
+
+2. **GitHub (First-party OAuth)**: Notificación de autorización de la aplicación Git Credential Manager para acceder a tu cuenta con permisos específicos. Puedes revisar los eventos de seguridad en tu cuenta.
+
+3. **GitHub (Third-party Application)**: Notificación de autorización de la aplicación Railway App para acceder a tu cuenta, con permiso para ver tus direcciones de correo. Detalles adicionales disponibles en el registro de seguridad.
+
+4. **Railway**: Bienvenida a la plataforma Railway con recursos para comenzar, incluyendo documentación, creación de proyectos y plantillas de despliegue.
+
+5. **Belsport**: Promoción de regalos para niños, con enlaces a productos específicos y opciones de gestión de suscripciones.
+
+6. **Decathlon Chile**: Ofrecen un 20% de descuento en palas Bullpadel, destacando características y beneficios de los productos. Incluyen detalles de pago y promociones adicionales.
+
+7. **Soy RedSalud**: Explican las razones para elegir sus seguros y planes, destacando la cobertura de gastos médicos y acceso a la red de salud más grande de Chile.
+
+8. **PokerGO**: Anuncio del regreso de Garrett Adelstein en la nueva temporada de "No Gamble, No Future", con detalles del evento y una oferta de descuento para nuevos suscriptores.
+
+9. **Scotiabank**: Promociones y beneficios para clientes, incluyendo descuentos en Papa Johns y la oportunidad de asistir a un concierto en Miami. Incluyen recomendaciones de seguridad.
+
+10. **Autopista Vespucio Norte**: Recordatorio de vencimiento de boleta con detalles del monto a pagar y opciones de pago para evitar recargos.
+
+11. **Club Deportivo USS**: Invitación a participar en la Batalla de Arqueros, con detalles de contacto y opciones para gestionar suscripciones.
+
+12. **Falabella**: Ofertas de botines con 50% de descuento para hombres y mujeres, con enlaces a productos y recomendaciones de seguridad.
+
+13. **UNAB**: Notificación sobre una beca exclusiva disponible hasta el 25 de julio.
+
+14. **Facultad de Psicología UDD**: Invitación a inscribirse en un seminario sobre el rediseño del trabajo futuro.
+
+15. **UNICEF**: Solicitud de apoyo adicional para enfrentar la emergencia nutricional en zonas de conflicto, con detalles de cómo las donaciones ayudan a los niños afectados.

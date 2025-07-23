@@ -1,18 +1,17 @@
-# Usa una imagen base oficial de Python
-FROM python:3.11-slim
+# Usa una imagen oficial de Python como base
+FROM python:3.10-slim
 
-# Establece el directorio de trabajo
+# Establece el directorio de trabajo en el contenedor
 WORKDIR /app
 
 # Copia los archivos del proyecto al contenedor
 COPY . .
 
-# Instala las dependencias
+# Instala las dependencias del archivo requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Expone el puerto por defecto (no usado directamente pero requerido en algunas plataformas)
-EXPOSE 8000
+# Expone el puerto en caso de que luego quieras usar FastAPI o similar
+EXPOSE 8080
 
-# Comando para iniciar el bot de Telegram
+# Comando para ejecutar tu bot de Telegram
 CMD ["python", "bot.py"]
-

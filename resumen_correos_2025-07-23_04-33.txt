@@ -1,0 +1,26 @@
+1. **Remitente: OpenAI | Tema: Aumento de límites de uso de API**
+   - OpenAI informa que la organización ha sido movida automáticamente a "Usage Tier 1" debido al historial de uso, lo que incrementa los límites de uso de API. Se invita a revisar los nuevos límites en la configuración de la cuenta.
+
+2. **Remitente: Shadowlands Ediciones | Tema: Oferta de juego de rol**
+   - Promoción de "The Troubleshooters", un juego de rol con un descuento de más de 50€ que incluye manuales, aventuras y accesorios. La oferta es válida por tiempo limitado.
+
+3. **Remitente: LinkedIn | Tema: Solicitud de contacto**
+   - Gonzalo Cortés Urra, profesor de IPCHILE, ha enviado una solicitud de conexión en LinkedIn a Edgardo Hidalgo.
+
+4. **Remitente: OpenAI | Tema: Actualización de tarea**
+   - Notificación de actualización en la tarea "Weekly calisthenics + bike plan" de ChatGPT.
+
+5. **Remitente: LinkedIn | Tema: Visitas al perfil**
+   - Tres personas han visitado el perfil de Edgardo Hidalgo en LinkedIn.
+
+6. **Remitente: LinkedIn | Tema: Reacciones a publicaciones**
+   - Álvaro Orellana López ha reaccionado a una publicación en LinkedIn, con menciones a otras personas que también han recomendado publicaciones.
+
+7. **Remitente: Netflix | Tema: Opinión sobre "Indomable"**
+   - Solicitud de calificación sobre la película "Indomable" para mejorar las recomendaciones personalizadas.
+
+8. **Remitente: LATAM Airlines | Tema: Descuentos en vuelos**
+   - Promoción de hasta 36% de descuento en vuelos nacionales e internacionales con LATAM. Se destacan destinos como Calama, La Serena, Buenos Aires y Mendoza.
+
+9. **Remitente: LIQUO | Tema: Descuento de invierno**
+   - Oferta de hasta 20% de descuento en productos seleccionados de LIQUO por tiempo limitado.
